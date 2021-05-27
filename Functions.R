@@ -1,5 +1,5 @@
 
-#####   All functions created
+#####   All functions created for the project
 
 # The function cash_flow retrieves financial statements from the wall street journal. It is called  
 # cash   flow since thats the value I am interested in to calculate the dcf
