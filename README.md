@@ -1,4 +1,4 @@
-# Financial-dashboard
+# Financial-dashboard (Personal Project)
 
 Financial dashboard created in R with shiny and deployed in shinyapps.io. Here is the link to the dashboard https://krrrr.shinyapps.io/Portafolio/?_ga=2.177367777.534537565.1623043500-210005555.1621725276
 
@@ -6,7 +6,9 @@ Financial dashboard created in R with shiny and deployed in shinyapps.io. Here i
 Check YTD  prices and financials of any stock in the SPY500. (Current prices are delayed)
 
 DCF calculator.
-Simple Markowtiz portfolio weights optimization.
+Simple Markowtiz portfolio weights optimization. (SPY500 only)
+
+Note: The dashboard is not 100% finished, there are some changes that still need to be made.
 
 The data is retrieved from yahoo finance via quantmod and tidyquant, and  the financials are scrapped from WSJ.
 
